@@ -1,6 +1,6 @@
 # Interfacing  esp32 and NCD Wireless Temperature and Humidity  Sensor
 Displaying Temperature Data on Ubidots  using esp32 and NCD wireless Temperature and Humidity  Sensor .
-![alt tag]()
+![alt tag](https://github.com/rjrajbir/Ncd-Long-range-Temperature-and-Humidity-sensor/blob/master/IoT-Wireless-Temperature-Humidity-600x400.png)
 # IoT Long Range Wireless Temperature and Humidity  Sensor
 Introducing NCD’s long-range wireless temperature humidity sensor, boasting up to a 28 Mile range using a wireless mesh networking architecture.  Incorporating the Honeywell HIH9130 temperature humidity sensor, transmits highly accurate temperature and humidity samples at user-defined intervals.
 
@@ -10,7 +10,7 @@ With an open communication protocol this IoT wireless temperature humidity produ
 
 The long range, price, accuracy, battery life and security features of Long Range Wireless Temperature Humidity Sensor makes it an affordable choice which exceeds the requirements for most of the industrial as well as consumer market applications.
 
-![alt tag](https://github.com/mjScientech/https-github.com-mjScientech-ESP32-AND-SI7021/blob/master/Zigmo_1.png)
+![alt tag]()
 # ZigBee Coordinator Long Range Wireless Mesh Modem with USB Interface
 - **ZigBee Wireless Communication**
 Mesh Networking is simply the hottest wireless technology of our time. Period. It’s fast, it’s very easy to use, highly reliable, and self healing. Three components are required for the ZigBee Mesh Network, the Coordinator (C), the Router (R) and the Endpoint (E). Your computer can speak to a ZigBee Mesh Network using a Coordinator. Think of the Coordinator as the interface to a ZigBee Mesh Network. NCD Coordinators are equipped with a USB Interface. This ZigBee Coordinator mounts as a Serial Port on your computer, and you will develop software that sends Serial commands at 115.2K Baud. The primary job of a router is to bridge the wireless gap between your computer (the Coordinator) and the device (Endpoint). If the Coordinator cannot speak to the Endpoint device because it is out of range, a Router can be used to bridge the two devices together. Endpoints are simply devices. With regard to NCD products, Endpoints can be relay controllers, data collection devices, PWM devices, and much more.
