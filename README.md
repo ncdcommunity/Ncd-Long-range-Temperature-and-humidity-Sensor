@@ -1,5 +1,5 @@
 # Interfacing  esp32 and NCD Wireless Temperature and Humidity  Sensor
-Displaying Temperature Data on Ubidots  using esp32 and NCD wireless Temperature and Humidity  Sensor .
+Displaying Temperature and Humidity Data on Ubidots  using esp32 and NCD wireless Temperature and Humidity  Sensor .
 ![alt tag](https://github.com/rjrajbir/Ncd-Long-range-Temperature-and-Humidity-sensor/blob/master/IoT-Wireless-Temperature-Humidity-600x400.png)
 # IoT Long Range Wireless Temperature and Humidity  Sensor
 Introducing NCD’s long-range wireless temperature humidity sensor, boasting up to a 28 Mile range using a wireless mesh networking architecture.  Incorporating the Honeywell HIH9130 temperature humidity sensor, transmits highly accurate temperature and humidity samples at user-defined intervals.
