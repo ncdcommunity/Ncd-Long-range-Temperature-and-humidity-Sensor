@@ -91,7 +91,7 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 - Wire.read()
   Receive 1 byte.
 
-# Steps to send data to labview vibration and temperature platform using IoT Long Range Wireless Vibration And Temperature Sensor and ZigBee Coordinator Long Range Wireless Mesh Modem with USB Interface-
+# Steps to send data to labview Temperature and Humidity platform using IoT Long Range Wireless Temperature and Humidity Sensor and ZigBee Coordinator Long Range Wireless Mesh Modem with USB Interface-
 
 Industrial-Wireless-IoT-Temperature-Humidity-Sensor
 Wireless Temperature Humidity Sensor Long range wireless IoT temperature humidity sensor can be found over here https://store.ncd.io/product/industrial-long-range-wireless-temperature-humidity-sensor/
@@ -151,7 +151,7 @@ complete product manual for this product can be found over here https://ncd.io/l
           Go to data select dashboard and inside dashboard create different widgets and add new widget 
           to your dashboard screen.
 # OUTPUT
-- **Now as the temperature/vibration  increases and decreases new data available inside the various variable.**
-![alt tag](https://github.com/mjScientech/https-github.com-mjScientech-ESP32-AND-SI7021/blob/master/ubidot%20vibration.JPG)
+- **Now as the temperature and humidity increases and decreases new data available inside the various variable.**
+![alt tag]()
 
 
