@@ -152,6 +152,6 @@ complete product manual for this product can be found over here https://ncd.io/l
           to your dashboard screen.
 # OUTPUT
 - **Now as the temperature and humidity increases and decreases new data available inside the various variable.**
-![alt tag]()
+![alt tag](https://github.com/rjrajbir/Ncd-Long-range-Temperature-and-Humidity-sensor/blob/master/temp_and_humidity.PNG)
 
 
