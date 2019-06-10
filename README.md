@@ -140,7 +140,7 @@ complete product manual for this product can be found over here https://ncd.io/l
 ![alt tag](https://github.com/mjScientech/ESP32-AND-SI7021/blob/master/variable.JPG)
                   
          
-![alt tag](https://github.com/mjScientech/https-github.com-mjScientech-ESP32-AND-SI7021/blob/master/variableout.JPG)
+
 
      
 - **Create dashboard in ubidots**
